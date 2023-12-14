@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://i.pinimg.com/564x/bc/3f/10/bc3f106ff090d59fabf6e3cd97d3c2e5.jpg"width="25%" align="right" /><a href="https://github.com/Mayar-Magdy">
-  <!--  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20developer;Problem-solving;Python%20Django%20Web%20Frameworke;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
--->
+<img src="https://i.pinimg.com/564x/bc/3f/10/bc3f106ff090d59fabf6e3cd97d3c2e5.jpg"width="25%" align="right" />
+  <!-- <a href="https://github.com/Mayar-Magdy">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20developer;Problem-solving;Python%20Django%20Web%20Frameworke;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a> -->
+
 <br><br>
 <pre>
      Hi there 👋 

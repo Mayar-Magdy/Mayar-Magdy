@@ -7,7 +7,6 @@
 <pre>
      Hi there 👋 
     💼 BSc @ FYM • Back-end dev 
-    🎮 Games • Anime • Code 
     🐍 Python • CPP 
     ✨I love to attend Meetups for learning & Conferences for Networking
 </pre>

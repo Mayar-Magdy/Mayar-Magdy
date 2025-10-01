@@ -1,7 +1,4 @@
-### Hi, I'm Mayar Magdy
-A passionate back-end engineer  
-
-Reach me: mayar.magdy471@gmail.com  
+### Hi, I'm Mayar Magdy<br>A passionate back-end engineer<br><br>Reach me: mayar.magdy471@gmail.com<br>
 
 # 💻 Tech Stack & Skills
 
